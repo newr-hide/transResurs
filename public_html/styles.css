@@ -108,7 +108,7 @@ input[type="submit"]:hover, input[type="button"]:hover, button:hover, .btn:hover
     display: inline-block;
     padding: 3px 8px;
     text-decoration: none;
-    background: #4169E1;
+    background: #e19641;
     color: #FFFFFF;
     font-size: 10pt;
     border-radius: 3px;
@@ -132,7 +132,7 @@ input[type="submit"]:hover, input[type="button"]:hover, button:hover, .btn:hover
     display: inline-block;
     padding: 3px 8px;
     text-decoration: none;
-    background: #f28502;
+    background: #f202ee;
     color: #FFFFFF;
     font-size: 10pt;
     border-radius: 3px;
@@ -175,10 +175,10 @@ input[type="submit"]:hover, input[type="button"]:hover, button:hover, .btn:hover
     border-radius: 2px;
     overflow: hidden;
 
-    background: rgba(240, 175, 62, 1.0);
-    background: -webkit-linear-gradient(left, rgba(240, 175, 62, 1.0), rgba(77, 36, 207, 1.0));
-    background: -moz-linear-gradient(left, rgba(240, 175, 62, 1.0), rgba(77, 36, 207, 1.0));
-    background: linear-gradient(to right, rgba(240, 175, 62, 1.0), rgba(77, 36, 207, 1.0));
+    background: rgb(225, 240, 62);
+    background: -webkit-linear-gradient(left, rgb(106, 62, 240), rgb(36, 181, 207, 1.0));
+    background: -moz-linear-gradient(left, rgba(106, 62, 240), rgba(36, 181, 207, 1.0));
+    background: linear-gradient(to right, rgba(106, 62, 240), rgba(36, 181, 207, 1.0));
 }
 
 #search-container {

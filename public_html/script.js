@@ -1,14 +1,5 @@
 // === Фотогалерея ===
-// Положи фото в папку images/photos/ и допиши имена сюда:
-// const photos = [
-//     "photo1.jpg",
-//     "photo2.jpg",
-//     "photo3.jpg",
-//     "photo4.jpg",
-//     "photo5.jpg",
-//     "photo6.jpg",
-//     "photo7.jpg"
-//   ];
+
   
   const gallery = document.getElementById("photoGallery");
   const photoPath = "images/photos/";
