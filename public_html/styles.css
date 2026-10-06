@@ -49,7 +49,7 @@ input[type="submit"]:hover, input[type="button"]:hover, button:hover, .btn:hover
 }
 
 .wrap {
-    width: 1100px;
+    width: 1200px;
     margin:0 auto;
     min-height: 100%;
     overflow: hidden;
@@ -80,7 +80,7 @@ input[type="submit"]:hover, input[type="button"]:hover, button:hover, .btn:hover
 .top_header {
     width: 100%;
     display: flex;
-    padding: 15px 0 0 0;
+    padding: 10px 0 0 0;
 }
 
 .top_header_logo_container {
@@ -88,11 +88,12 @@ input[type="submit"]:hover, input[type="button"]:hover, button:hover, .btn:hover
 }
 
 .header .logo {
-    width: 300px;
-    height: 71px;
+    width: 320px;
+    height: 90px;
     background: url(images/logo.svg) no-repeat;
     background-size: 100%;
     display: block;
+    margin-right: 10px;
 }
 .logo_info {
     margin: -7px 0 0px 85px;
@@ -101,7 +102,7 @@ input[type="submit"]:hover, input[type="button"]:hover, button:hover, .btn:hover
 }
 
 .top_temper_link_container {
-    padding: 24px 40px 0 0;
+    padding: 24px 20px 0 0;
 }
 .top_temper_link_container a {
     display: inline-block;
@@ -125,7 +126,7 @@ input[type="submit"]:hover, input[type="button"]:hover, button:hover, .btn:hover
 }
 
 .top_lk_link_container {
-    padding: 24px 40px 0 0;
+    padding: 22px 30px 0 0;
 }
 .top_lk_link_container a {
     display: inline-block;
